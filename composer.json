@@ -1,0 +1,17 @@
+{
+    "name": "morphe/v2raysenderbot",
+    "autoload": {
+        "psr-4": {
+            "Morphe\\V2raysenderbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "morpheusadam",
+            "email": "morpheusadam95@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.5"
+    }
+}
